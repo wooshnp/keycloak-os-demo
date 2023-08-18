@@ -1,0 +1,3 @@
+com/outsystems/auth/demo/controllers/SuperSecretData.class
+com/outsystems/auth/demo/keycloak/WebSecurityConfig.class
+com/outsystems/auth/demo/DemoApplication.class
